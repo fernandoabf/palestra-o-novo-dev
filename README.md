@@ -2,7 +2,7 @@
 
 De LLMs a agentes: RAG, SLMs e MCP na prática, com casos reais.
 
-Palestra de **Fernando Braga**, cofundador e CTO da Vastech e da Domus, no **Tech Day**, em Camocim-CE, em 02/10/2026. Tema oficial do evento: IA e Futuro do Trabalho.
+Palestra de **Fernando Braga**, cofundador e CTO da DomusTec e da Vastech, no **Tech Day**, em Camocim-CE, em 02/10/2026. Tema oficial do evento: IA e Futuro do Trabalho.
 
 **Tese:** o mercado não está contratando menos devs; está contratando outro dev.
 
@@ -10,12 +10,13 @@ Os slides em PDF entram aqui depois do evento. Contato: [LinkedIn](https://www.l
 
 ## Referências
 
-Todos os dados e casos citados na palestra, por bloco. Os números autodeclarados pelas empresas estão indicados como tal na palestra.
+Os dados e casos citados na palestra, por bloco, e algumas leituras de apoio. Os números autodeclarados pelas empresas estão indicados como tal na palestra.
 
 ### 1. Abertura: o que está acontecendo com as vagas de dev
 
 - [Indeed Hiring Lab](https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/): alta de quase 15% nas vagas de dev, 71% sênior e 37% com IA no título
 - [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/jobs-hit-hardest-ai-era-211351738.html): queda de 73% entre 2022 e 2025
+- [FRED, Software Development Job Postings on Indeed in the United States](https://fred.stlouisfed.org/series/IHLIDXUSTPSOFTDEVE): série oficial do Indeed usada no esquema do gráfico
 
 ### 2. IA no ciclo de desenvolvimento
 
@@ -54,7 +55,7 @@ Todos os dados e casos citados na palestra, por bloco. Os números autodeclarado
 ### 7. Agentes: juntando todas as peças
 
 - [VentureBeat](https://venturebeat.com/orchestration/8-billion-tokens-a-day-forced-at-and-t-to-rethink-ai-orchestration-and-cut): AT&T, super agentes e agentes trabalhadores
-- [Techbuddies](https://www.techbuddies.io/2026/02/27/inside-atts-agentic-ai-stack-how-8-billion-tokens-a-day-led-to-a-90-cost-cut/): AT&T, agentes trabalhadores e o produto feito em 20 minutos
+- [Techbuddies](https://www.techbuddies.io/2026/02/27/inside-atts-agentic-ai-stack-how-8-billion-tokens-a-day-led-to-a-90-cost-cut/): AT&T, agentes trabalhadores
 
 ### 8. Confiança: segurança e avaliação
 
@@ -71,6 +72,7 @@ Todos os dados e casos citados na palestra, por bloco. Os números autodeclarado
 
 ### 9. Fechamento: o novo dev
 
-- [Entrepreneur](https://www.entrepreneur.com/business-news/klarna-ceo-reverses-course-by-hiring-more-humans-not-ai/): Klarna, 700 atendentes e 75% dos chats
+- [Klarna, comunicado de 27/02/2024](https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/): o assistente fez dois terços dos chats no primeiro mês, o trabalho de 700 atendentes
+- [Entrepreneur](https://www.entrepreneur.com/business-news/klarna-ceo-reverses-course-by-hiring-more-humans-not-ai/): Klarna, o assistente e os 700 atendentes
 - [Xataka](https://www.xatakaon.com/robotics-and-ai/klarna-claimed-its-ai-was-doing-the-work-of-700-employees-its-now-rehiring-humans): Klarna, a volta atrás
 - [Tech.co](https://tech.co/news/klarna-reverses-ai-overhaul): Klarna, o modelo que combina IA e humanos
