@@ -61,7 +61,10 @@ Todos os dados e casos citados na palestra, por bloco. Os números autodeclarado
 - [Law360](https://www.law360.ca/ca/articles/1804075): Air Canada, o tribunal rejeita a tese do chatbot como entidade separada
 - [LoyaltyLobby](https://loyaltylobby.com/2024/02/19/passenger-sues-air-canada-over-bereavement-fare-discount-following-incorrect-guidance-by-chat-feature/): Air Canada, valor da condenação
 - [Invicti](https://invicti.com/blog/web-security/owasp-top-10-risks-llm-security-2025): OWASP Top 10 para LLMs (2025)
+- [Fast Company](https://www.fastcompany.com/91532091/mcdonalds-ai-bot-didnt-go-rogue) e [DeviceDaily, republicação da matéria](https://www.devicedaily.com/pin/theres-no-rogue-mcdonalds-ai-bot-but-prompt-injection-is-still-a-risk-for-companies/): o bot do McDonald's que "escreveu Python" era boato (abril de 2026)
 - [Let's Data Science](https://letsdatascience.com/news/echoleak-exposes-data-via-microsoft-365-copilot-1fd222bf) e [AAAI](https://ojs.aaai.org/index.php/AAAI-SS/article/view/36899): EchoLeak, ataque, gravidade e correção
+- [Ian Carroll](https://ian.sh/mcdonalds): McHire, do McDonald's: prompt injection tentada e sem sucesso, senha 123456 e cerca de 64 milhões de registros de candidaturas acessíveis (2025)
+- [Krebs on Security](https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/) e [Paradox](https://paradox.ai/blog/responsible-security-update): McHire, a continuação e a resposta da empresa
 - [Bloomberg](https://bloomberg.com/news/articles/2023-05-02/samsung-bans-chatgpt-and-other-generative-ai-use-by-staff-after-leak) e [Daum](https://v.daum.net/v/20230503140609036): Samsung, proibição de IA generativa e os três casos de vazamento
 - [Invariant Labs](https://invariantlabs.ai/blog/mcp-github-vulnerability) e [DevClass](https://devclass.com/2025/05/27/researchers-warn-of-prompt-injection-vulnerability-in-github-mcp-with-no-obvious-fix/): GitHub MCP, vazamento de repositórios privados e mitigações
 - [OpenAI](https://openai.com/index/morgan-stanley/): Morgan Stanley e o framework de avaliação
